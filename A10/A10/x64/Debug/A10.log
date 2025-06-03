@@ -1,0 +1,17 @@
+﻿   Qt/MSBuild: 3.4.0.1
+   Qt: 6.9.0
+  AdminWindow.cpp
+  GUI.cpp
+  Service.cpp
+  UndoAction.cpp
+D:\facultate\Sem 2\Object Oriented Programming\Assignments\A10\a10-Alexandra-Maria-Chicus-1\A10\A10\Service.cpp(97,1): warning C4715: 'Service::findMovie': not all control paths return a value
+  UserWindow.cpp
+  WatchListWindow.cpp
+D:\facultate\Sem 2\Object Oriented Programming\Assignments\A10\a10-Alexandra-Maria-Chicus-1\A10\A10\AdminWindow.cpp(71,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+D:\facultate\Sem 2\Object Oriented Programming\Assignments\A10\a10-Alexandra-Maria-Chicus-1\A10\A10\UserWindow.cpp(146,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  moc_AdminWindow.cpp
+  moc_GUI.cpp
+  moc_UserWindow.cpp
+  moc_WatchListWindow.cpp
+  A10.vcxproj -> D:\facultate\Sem 2\Object Oriented Programming\Assignments\A10\a10-Alexandra-Maria-Chicus-1\A10\x64\Debug\A10.exe
