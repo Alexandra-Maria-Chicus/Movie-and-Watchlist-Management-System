@@ -1,6 +1,6 @@
 # Movie and Watchlist Management System
 
-[cite_start]A robust C++ desktop application designed to manage a personal movie library and curated watchlists[cite: 24, 25]. [cite_start]This project demonstrates the transition from a console-based logic to a modern graphical interface, emphasizing clean architecture and object-oriented principles[cite: 25, 26].
+A robust C++ desktop application designed to manage a personal movie library and curated watchlists. This project demonstrates the transition from a console-based logic to a modern graphical interface, emphasizing clean architecture and object-oriented principles.
 
 ## 🚀 Features
 
